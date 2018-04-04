@@ -1,2 +1,2 @@
 # learnrep
-learng repository
+learng repository for git command demotration
