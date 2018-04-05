@@ -4,7 +4,9 @@ $input = 'yes';
 
 if ($input == 'yes')
 {
-	echo "I am hungry";
+	echo "eat samosa";
+	echo "eat burger";
+	echo "eat fries";
 }
 else
 {
