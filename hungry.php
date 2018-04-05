@@ -8,7 +8,7 @@ if ($input == 'yes')
 }
 else
 {
-	echo "do my work";
+	echo "do my homework";
 }
 
 ?>
