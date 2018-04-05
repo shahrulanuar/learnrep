@@ -6,7 +6,7 @@ if ($input == 'yes')
 {
 	echo "eat samosa";
 	echo "eat 2 burger";
-	echo "eat fries";
+	echo "eat fries ok";
 }
 else
 {
